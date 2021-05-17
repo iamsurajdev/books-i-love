@@ -13,3 +13,9 @@
 - This book is for every one it comes from the category of self-help.
 - It gives a realistic view point of life and will help you analyze yourself and your decisions in life
   ![image info](./assets/the-subtle-Art-Not-Giving-a-fuck.jpg)
+
+## Atomic Habits 🤩 [( link )](https://www.amazon.in/Subtle-Art-Not-Giving/dp/0062641549)
+
+- No one should miss out on this.
+- This book will help you understand about human habits in depth
+  ![image info](./assets/atomic-habits.jpg)
